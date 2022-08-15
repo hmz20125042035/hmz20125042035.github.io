@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   responsitory: https://github.com/hmz20125042035/hmz20125042035.github.io.git
-  branch: main
+  branch: master
